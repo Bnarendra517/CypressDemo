@@ -19,6 +19,6 @@ Feature: Perform actions on textbox
         Then Verify the submition message
 
         Examples:
-            | name    | email          | message |
-            | Deepika | test@gmail.com | Hello   |
-            | Test    | invalid        | World   |
+            | name | email          | message |
+            | Isha | test@gmail.com | Hello   |
+            | Test | invalid        | World   |
